@@ -23,9 +23,3 @@ I enjoy building projects, learning new technologies, and experimenting with dif
 - Improve my programming skills
 - Build useful and creative projects
 - Keep learning by building things
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoSC09&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSC09&layout=compact&theme=tokyonight&hide_border=true)
