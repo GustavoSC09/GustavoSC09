@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Gustavo!
 
-💻 **IT Student | Python Developer | Tech Enthusiast | Godot Game Developer | Web Development Enthusiast**
+💻 **IT Student | Python Developer | Tech Enthusiast | Godot Game Developer**
 
 I'm an IT student from Portugal 🇵🇹 passionate about programming and game development.
 
